@@ -7,4 +7,4 @@
 
 
 
-## Desarrollado para [hackaton Laboratoria] (http://laboratoria.la)
+ Desarrollado para [Hackaton Laboratoria](http://laboratoria.la)
